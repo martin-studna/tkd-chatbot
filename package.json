@@ -1,0 +1,17 @@
+{
+  "name": "tkd-chatbot",
+  "version": "1.0.0",
+  "description": "Implementation of Watson assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Studna",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "prettier": "^1.16.4",
+    "tslint": "^5.15.0",
+    "typescript": "^3.4.1"
+  }
+}
